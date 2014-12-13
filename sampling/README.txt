@@ -1,0 +1,1 @@
+This directory contains the sampling library for GrokIt. It should be installed and manipulated like a GrokIt library.

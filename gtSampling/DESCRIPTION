@@ -1,0 +1,9 @@
+Package: gtSampling
+Type: Package
+Title: Package to add GUS sampling mechanisms and analysis to GrokiIt
+Version: 0.1
+Date: 2014-12-12
+Author: Alin Dobra
+Maintainer: Who to complain to <yourfault@somewhere.net>
+Description: Package to add GUS sampling mechanisms and analysis to GrokiIt
+License: Apache 2.0
